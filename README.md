@@ -11,12 +11,12 @@ This is a simple two-player **Tic-Tac-Toe game** (Juego de Gato) built using **P
 
 📦 Files
 
-| File        | Description                             |
-|-------------|-----------------------------------------|
-| `gato.py`   | Python source code (for Linux/macOS)    |
-| `gato.exe`  | Executable file for Windows users       |
-| `README.md` | Project description and instructions    |
-| `requirements.txt` | Dependencies (only Tkinter)     |
+| File           | Description                             |
+|----------------|-----------------------------------------|
+| 'gato.py'      | Python source code (for Linux/macOS)    |
+| 'gato.exe'     | Executable file for Windows users       |
+| 'Dependencies' | Dependencies Are Tkinter                |
+|__________________________________________________________|
 
 ---
 
