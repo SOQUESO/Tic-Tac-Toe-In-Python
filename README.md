@@ -13,9 +13,9 @@ This is a simple two-player **Tic-Tac-Toe game** (Juego de Gato) built using **P
 
 | File           | Description                             |
 |----------------|-----------------------------------------|
-| 'gato.py'      | Python source code (for Linux/macOS)    |
-| 'gato.exe'     | Executable file for Windows users       |
-| 'Dependencies' | Dependencies Are Tkinter                |
+| gato.py        | Python source code (for Linux/macOS)    |
+| gato.exe       | Executable file for Windows users       |
+| Dependencies   | Dependencies Are Tkinter                |
 
 ---
 
